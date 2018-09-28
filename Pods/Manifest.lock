@@ -1,0 +1,24 @@
+PODS:
+  - DynamicButton (6.0.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+
+DEPENDENCIES:
+  - DynamicButton
+  - GoogleMaps
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DynamicButton
+    - GoogleMaps
+
+SPEC CHECKSUMS:
+  DynamicButton: 807c94a835c9a64068ff0479934aa81a39323334
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+
+PODFILE CHECKSUM: b0853be4bf027355f228a4c4141ad6cfc19a9338
+
+COCOAPODS: 1.5.3
