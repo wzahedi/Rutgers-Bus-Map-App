@@ -58,7 +58,6 @@ class FirstViewController: UIViewController, GMSMapViewDelegate, XMLParserDelega
                 marker.key.isFlat = true
                 marker.key.tracksInfoWindowChanges = true
                 marker.key.rotation = CLLocationDegrees(bus.value.heading!)
-                
                 marker.key.map = mapView
             }
             mapView.delegate = self
