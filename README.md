@@ -1,4 +1,4 @@
-# Rutgers-Bus-Map-App
+# [Outdated] Rutgers-Bus-Map-App
 Rutgers Bus map app for iOS using Google Maps SDK, using older Nextbus API (XML)
 
 
